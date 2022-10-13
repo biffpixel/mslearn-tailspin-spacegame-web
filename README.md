@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/BG-Core/Bolt%20Graphics%20Internal/_apis/build/status/biffpixel.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/BG-Core/Bolt%20Graphics%20Internal/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
